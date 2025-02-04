@@ -1,8 +1,12 @@
-# React + Vite
+Habit Tracker 📝🔥
+A simple yet powerful habit-tracking app built with React and Redux Toolkit. This app allows users to add, delete, and mark habits as completed while also tracking streaks for consistent habits.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+✅ Add new habits
+✅ Delete habits
+✅ Mark habits as completed
+✅ Track streaks of completed habits
+✅ State management using Redux Toolkit
 
-Currently, two official plugins are available:
+This project was built to practice Redux Toolkit and improve state management in React applications. 🚀
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
